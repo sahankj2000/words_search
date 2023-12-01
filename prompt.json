@@ -1,0 +1,7 @@
+{
+    "word_length": 5, 
+    "search_pattern": "ra...",
+    "ignore_letters": "pi",
+    "include_letters": "d",
+    "ignore_patterns": ["....d"]
+}
