@@ -73,7 +73,6 @@ def get_splitted_letters(letters):
 
 if __name__ == '__main__':
     """
-    Disclaimer the two words list files are from: https://github.com/dwyl/english-words
     word_length: length of word
     search_pattern: pattern to look for, '.' for any letter eg: '.aha.', no wild card (### green letters and rest dots)
     ignore_letters: add letters you know are not in the word (### greyed out letters)
