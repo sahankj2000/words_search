@@ -1,7 +1,7 @@
 {
     "word_length": 5, 
-    "search_pattern": "ra...",
-    "ignore_letters": "pi",
-    "include_letters": "d",
-    "ignore_patterns": ["....d"]
+    "search_pattern": ".....",
+    "ignore_letters": "brainsmtdwx",
+    "include_letters": "ecl",
+    "ignore_patterns": ["..el.", "e.c.l"]
 }
